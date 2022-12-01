@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Suporte Idiomas</string>
+    <string name="frase" translatable="false">Plantar um jardim é acreditar no amanhã.</string>
 </resources>
